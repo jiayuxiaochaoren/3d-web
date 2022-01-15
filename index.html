@@ -33,7 +33,7 @@
     <!-- end main wrapper-->
     <script type="text/javascript">
           var need = document.querySelector('.need-data');
-          var len = 165;
+          var len = 167;
           var html = "";
           var str_t = "";
           var name ="";
@@ -48,24 +48,24 @@
 
               html += '<li> <a href="'+str_t+'" title="Item '+i+'" data-extended="'+str_t+'" data-type="photo" data-thumbnail="'+str_t+'">'+name+'</a></li>\n';
           }
-          var yu = 0;
-          var last = 0;
-          if (len<165){
-              yu = (165-len)%11
-              last = 176-len - yu
-          }else if (len>165){
-              yu = len%11
-              last = 11-yu
-          }
-
-          if(last>0){
-              for (var i=1;i<=last;i++){
-                  name = "none";
-                  str_t = "assets/back.png";
-
-                  html += '<li> <a href="'+str_t+'" title="Item '+(len+i)+'" data-extended="'+str_t+'" data-type="photo" data-thumbnail="'+str_t+'">'+name+'</a></li>\n';
-              }
-          }
+//          var yu = 0;
+//          var last = 0;
+//          if (len<165){
+//              yu = (165-len)%11
+//              last = 176-len - yu
+//          }else if (len>165){
+//              yu = len%11
+//              last = 11-yu
+//          }
+//
+//          if(last>0){
+//              for (var i=1;i<=last;i++){
+//                  name = "none";
+//                  str_t = "assets/back.png";
+//
+//                  html += '<li> <a href="'+str_t+'" title="Item '+(len+i)+'" data-extended="'+str_t+'" data-type="photo" data-thumbnail="'+str_t+'">'+name+'</a></li>\n';
+//              }
+//          }
           need.innerHTML = html
         console.log()
         document.body.onload = function() {
