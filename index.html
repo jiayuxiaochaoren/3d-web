@@ -40,12 +40,12 @@
       var str_t = "";
       var name = "";
       var num_str = "";
-      for (var i = 1; i <= 180; i++) {
+      for (var i = 1; i <= 195; i++) {
         num_str = i;
         if (i < 10) {
           num_str = "0" + i;
         }
-        if (i <= 165) {
+        if (i <= 167) {
           name = "dnulogo-zz-" + num_str;
           str_t = "assets/tx/" + name + ".png";
         } else {
@@ -66,7 +66,7 @@
           "</a></li>\n";
       }
       need.innerHTML = html;
-      
+
       document.body.onload = function () {
         "use strict";
 
@@ -75,8 +75,9 @@
           //force2d:true,
           containerZ: -2500,
           extrudeRotation: false,
-
           boxThickness: 20,
+          hAngleSegment: 24,
+          vAngleSegment: 13,
           control: "mousemove",
           categoryMenu: {
             horizontal: true,
