@@ -40,11 +40,18 @@
       var str_t = "";
       var name = "";
       var num_str = "";
-      for (var i = 1; i <= 195; i++) {
+      for (var i = 1; i <= 192; i++) {
         num_str = i;
         if (i < 10) {
           num_str = "0" + i;
         }
+        if (i==166){
+            html += "<li><a href='assets/back.png' title='Item 0' data-type='photo'  data-thumbnail='assets/back.png' data-extended='assets/back.png'>none</a></li>\n"
+            html += "<li><a href='assets/back.png' title='Item 0' data-type='photo'  data-thumbnail='assets/back.png' data-extended='assets/back.png'>none</a></li>\n"
+        }
+          if (i==167){
+              html += "<li><a href='assets/back.png' title='Item 0' data-type='photo'  data-thumbnail='assets/back.png' data-extended='assets/back.png'>none</a></li>\n"
+          }
         if (i <= 167) {
           name = "dnulogo-zz-" + num_str;
           str_t = "assets/tx/" + name + ".png";
@@ -64,6 +71,7 @@
           '">' +
           name +
           "</a></li>\n";
+
       }
       need.innerHTML = html;
 
