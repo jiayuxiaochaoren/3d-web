@@ -1,13 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="3d, photo, gallery, advanced, javascript">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" href="css/site.css">
-    <link rel="stylesheet" href="css/sg3d.min.css">
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta
+      name="description"
+      content="3d, photo, gallery, advanced, javascript"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, shrink-to-fit=no"
+    />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/site.css" />
+    <link rel="stylesheet" href="css/sg3d.min.css" />
     <title>DNU DAO Genesis NFT "The Zero"</title>
     <script src="js/three.min.js"></script>
     <script src="js/anime.min.js"></script>
@@ -21,80 +27,77 @@
       <!-- Start gallery-->
       <div class="rs-container">
         <div class="rs-sg3d">
-
           <!-- Art Gallery-->
-          <ul data-name="Art Gallery" class="need-data">
-
-          </ul>
+          <ul data-name="Art Gallery" class="need-data"></ul>
         </div>
       </div>
       <!-- end gallery-->
     </div>
     <!-- end main wrapper-->
     <script type="text/javascript">
-          var need = document.querySelector('.need-data');
-          var len = 167;
-          var html = "";
-          var str_t = "";
-          var name ="";
-          var num_str = "";
-          for (var i=1;i<=len;i++){
-              num_str = i
-              if (i<10){
-                  num_str = "0"+i
-              }
-              name = "dnulogo-zz-"+num_str;
-              str_t = "assets/tx/"+name+".png";
-
-              html += '<li> <a href="'+str_t+'" title="Item '+i+'" data-extended="'+str_t+'" data-type="photo" data-thumbnail="'+str_t+'">'+name+'</a></li>\n';
+      var need = document.querySelector(".need-data");
+      var html = "";
+      var str_t = "";
+      var name = "";
+      var num_str = "";
+      for (var i = 1; i <= 192; i++) {
+        num_str = i;
+        if (i < 10) {
+          num_str = "0" + i;
+        }
+        if (i==166){
+            html += "<li><a href='assets/back.png' title='Item 0' data-type='photo'  data-thumbnail='assets/back.png' data-extended='assets/back.png'>none</a></li>\n"
+            html += "<li><a href='assets/back.png' title='Item 0' data-type='photo'  data-thumbnail='assets/back.png' data-extended='assets/back.png'>none</a></li>\n"
+        }
+          if (i==167){
+              html += "<li><a href='assets/back.png' title='Item 0' data-type='photo'  data-thumbnail='assets/back.png' data-extended='assets/back.png'>none</a></li>\n"
           }
-//          var yu = 0;
-//          var last = 0;
-//          if (len<165){
-//              yu = (165-len)%11
-//              last = 176-len - yu
-//          }else if (len>165){
-//              yu = len%11
-//              last = 11-yu
-//          }
-//
-//          if(last>0){
-//              for (var i=1;i<=last;i++){
-//                  name = "none";
-//                  str_t = "assets/back.png";
-//
-//                  html += '<li> <a href="'+str_t+'" title="Item '+(len+i)+'" data-extended="'+str_t+'" data-type="photo" data-thumbnail="'+str_t+'">'+name+'</a></li>\n';
-//              }
-//          }
-          need.innerHTML = html
-        console.log()
-        document.body.onload = function() {
+        if (i <= 167) {
+          name = "dnulogo-zz-" + num_str;
+          str_t = "assets/tx/" + name + ".png";
+        } else {
+          name = "none";
+          str_t = "assets/back.png";
+        }
+        html +=
+          '<li> <a href="' +
+          str_t +
+          '" title="Item ' +
+          i +
+          '" data-extended="' +
+          str_t +
+          '" data-type="photo" data-thumbnail="' +
+          str_t +
+          '">' +
+          name +
+          "</a></li>\n";
 
-          "use strict";
+      }
+      need.innerHTML = html;
 
-          var el = document.querySelector('.rs-sg3d');
-          var sg3d = new SphericalGallery(el, {
+      document.body.onload = function () {
+        "use strict";
 
+        var el = document.querySelector(".rs-sg3d");
+        var sg3d = new SphericalGallery(el, {
           //force2d:true,
-          containerZ:-2500,
-          extrudeRotation:false,
-
-          boxThickness:20,
-          control:'mousemove',
-          categoryMenu:{
-            horizontal:true
+          hAngleSegment: 24,
+          vAngleSegment: 13.8,
+          containerZ: -2500,
+          extrudeRotation: false,
+          control: "mousemove",
+          categoryMenu: {
+            horizontal: true,
           },
-          backImage:'assets/back.png'
+          backImage: "assets/back.png",
           //control:'mousemove'
         });
-            sg3d.addEventListener('cloadcomplete', function(e) {
-                document.querySelector('.app-title').style.display = "none"
-
-            });
+        sg3d.addEventListener("cloadcomplete", function (e) {
+          document.querySelector(".app-title").style.display = "none";
+        });
 
         window.sg3d = sg3d;
-
-        }
+      };
     </script>
   </body>
 </html>
