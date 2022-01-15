@@ -8,9 +8,7 @@
     <link rel="stylesheet" href="css/app.css">
     <link rel="stylesheet" href="css/site.css">
     <link rel="stylesheet" href="css/sg3d.min.css">
-    <link rel="stylesheet" href="css/video-js.css">
     <title>DNU DAO Genesis NFT "The Zero"</title>
-    <script src="js/video.min.js"></script>
     <script src="js/three.min.js"></script>
     <script src="js/anime.min.js"></script>
     <script src="js/sg3d.min.js"></script>
@@ -34,10 +32,8 @@
     </div>
     <!-- end main wrapper-->
     <script type="text/javascript">
-      document.body.onload = function() {
           var need = document.querySelector('.need-data');
-
-          var len = 167;
+          var len = 165;
           var html = "";
           var str_t = "";
           var name ="";
@@ -52,16 +48,37 @@
 
               html += '<li> <a href="'+str_t+'" title="Item '+i+'" data-extended="'+str_t+'" data-type="photo" data-thumbnail="'+str_t+'">'+name+'</a></li>\n';
           }
+          var yu = 0;
+          var last = 0;
+          if (len<165){
+              yu = (165-len)%11
+              last = 176-len - yu
+          }else if (len>165){
+              yu = len%11
+              last = 11-yu
+          }
+
+          if(last>0){
+              for (var i=1;i<=last;i++){
+                  name = "none";
+                  str_t = "assets/back.png";
+
+                  html += '<li> <a href="'+str_t+'" title="Item '+(len+i)+'" data-extended="'+str_t+'" data-type="photo" data-thumbnail="'+str_t+'">'+name+'</a></li>\n';
+              }
+          }
           need.innerHTML = html
+
+        document.body.onload = function() {
 
           "use strict";
 
           var el = document.querySelector('.rs-sg3d');
           var sg3d = new SphericalGallery(el, {
-      
+
           //force2d:true,
           containerZ:-2500,
           extrudeRotation:false,
+
           boxThickness:20,
           control:'mousemove',
           categoryMenu:{
@@ -70,6 +87,7 @@
           backImage:'assets/back.png'
           //control:'mousemove'
         });
+
         window.sg3d = sg3d;
       }
     </script>
