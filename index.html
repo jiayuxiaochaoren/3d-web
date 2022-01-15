@@ -67,7 +67,7 @@
               }
           }
           need.innerHTML = html
-
+        console.log()
         document.body.onload = function() {
 
           "use strict";
@@ -89,7 +89,10 @@
         });
 
         window.sg3d = sg3d;
-      }
+        setTimeout(function () {
+            document.querySelector('.app-title').style.display = "none"
+        },1000)
+        }
     </script>
   </body>
 </html>
