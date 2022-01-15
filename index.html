@@ -40,10 +40,7 @@
       var str_t = "";
       var name = "";
       var num_str = "";
-      for (var i = 1; i <= 28; i++) {
-          html +='<li><a href="assets/back.png" title="item 0" data-type="photo"></a></li>\n'
-      }
-      for (var i = 1; i <= 197; i++) {
+      for (var i = 1; i <= 195; i++) {
         num_str = i;
         if (i < 10) {
           num_str = "0" + i;
@@ -76,8 +73,8 @@
         var el = document.querySelector(".rs-sg3d");
         var sg3d = new SphericalGallery(el, {
           //force2d:true,
-            hAngleSegment:24,
-            vAngleSegment:12,
+          hAngleSegment: 24,
+          vAngleSegment: 13.8,
           containerZ: -2500,
           extrudeRotation: false,
           control: "mousemove",
