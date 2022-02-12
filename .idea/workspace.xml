@@ -2,196 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfb855f3-5ef3-4b0b-b6d2-e1da58294118" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-07.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-08.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-09.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-101.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-102.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-103.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-104.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-105.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-106.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-107.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-108.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-109.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-110.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-111.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-112.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-113.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-115.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-116.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-117.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-118.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-119.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-120.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-121.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-122.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-123.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-124.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-125.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-126.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-127.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-128.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-129.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-130.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-131.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-132.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-133.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-134.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-135.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-136.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-137.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-138.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-139.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-140.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-141.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-142.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-143.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-144.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-145.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-146.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-147.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-148.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-149.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-151.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-152.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-153.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-154.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-155.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-156.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-157.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-158.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-159.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-160.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-161.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-162.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-163.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-164.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-165.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-166.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-167.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-168.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-169.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-170.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-171.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-172.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-173.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-174.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-175.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-176.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-177.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-178.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-179.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-41.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-42.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-43.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-44.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-45.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-46.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-47.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-48.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-49.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-51.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-52.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-54.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-55.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-56.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-57.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-58.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-59.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-61.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-62.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-63.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-65.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-66.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-67.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-68.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-69.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-71.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-73.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-74.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-75.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-77.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-78.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-79.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-80.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-81.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-82.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-83.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-84.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-85.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-86.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-87.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-88.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-89.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-90.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-91.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-92.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-93.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-94.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-95.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-96.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-97.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-98.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/one/dnu-nft-99.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/yin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/yin7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/yin8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/one/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2d.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/audio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fullwidth.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/light.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mousedrag.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/video.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-76.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-147.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-77.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-148.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-139.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-139.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-142.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-142.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-144.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-144.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-145.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-145.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-75.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-75.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-84.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-84.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-85.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-85.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-86.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-86.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-88.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-88.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/one/dnutothemoon-91.jpg" afterPath="$PROJECT_DIR$/assets/one/dnutothemoon-91.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/one/index.html" afterPath="$PROJECT_DIR$/one/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -202,65 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dnulogo-zz-42.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-42.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dnulogo-zz-43.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-43.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/one/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="57" column="17" lean-forward="true" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+            <state relative-caret-position="223">
+              <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dnu-nft-89.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/one/dnu-nft-89.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dnu-nft-173.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/one/dnu-nft-173.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="back.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/back.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="back.light.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/back.light.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -332,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -348,13 +121,18 @@
             <path>
               <item name="3d" type="b2602c69:ProjectViewProjectNode" />
               <item name="3d" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="one" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="3d" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3d" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="one" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,6 +141,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/one" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/tx" />
     </key>
@@ -395,22 +174,22 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12211000" />
+    <option name="totallyTimeSpent" value="15341000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1423" height="764" extended-state="0" />
+    <frame x="0" y="25" width="1423" height="764" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2570601" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -441,126 +220,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-02.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-50.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-15.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="97" column="21" lean-forward="false" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/ajax/hello.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="1175" column="17" lean-forward="false" selection-start-line="1175" selection-start-column="17" selection-end-line="1175" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-53.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-54.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-52.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-168.png" />
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-167.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-166.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-165.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-50.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-150.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/tx/dnulogo-zz-149.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -702,6 +361,114 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="76" column="25" lean-forward="true" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-140.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-146.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-92.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-93.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-139.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-82.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-83.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-145.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-144.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-90.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-142.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-143.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-99.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-89.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-91.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-88.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-86.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-85.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-75.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/one/dnutothemoon-84.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="45" column="26" lean-forward="true" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
           <folding />
         </state>
       </provider>
