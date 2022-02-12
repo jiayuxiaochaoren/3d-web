@@ -40,18 +40,19 @@
       var str_t = "";
       var name = "";
       var num_str = "";
-      for (var i = 1; i <= 192; i++) {
-        num_str = i;
-        if (i < 10) {
-          num_str = "0" + i;
-        }
+      for (var i = 1; i <= 195; i++) {
 
-        if (i <= 146) {
-          name = "dnutothemoon-" + num_str;
-          str_t = "../assets/one/" + name + ".jpg";
+        if (i<=15 || i>163){
+            name = "none";
+            str_t = "../assets/yin7.jpg";
         } else {
-          name = "none";
-          str_t = "../assets/back.png";
+            num_str = i-15;
+            if (num_str < 10) {
+                num_str = "0" + num_str;
+            }
+
+            name = "dnutothemoon-" + num_str;
+            str_t = "../assets/one/" + name + ".jpg";
         }
         html +=
           '<li> <a href="' +
@@ -77,7 +78,7 @@
           //force2d:true,
             sphereRadius:1300,
           hAngleSegment: 24,
-          vAngleSegment: 16.36,
+          vAngleSegment: 13.84,
           containerZ: -2500,
           extrudeRotation: false,
           control: "mousemove",
